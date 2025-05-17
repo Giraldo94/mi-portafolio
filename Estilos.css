@@ -378,3 +378,10 @@ i {
     align-items: center;
   }
 }
+
+@media (max-width: 600px) {
+  body {
+    padding-top: 120px; /* o ajusta según lo que necesites */
+  }
+}
+
